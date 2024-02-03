@@ -1,6 +1,5 @@
-### Hi there 👋
-
 ## Computer Science Student & Aspiring Software Engineer
+### I'm Kevin
 
 💬 Ask me about my motorcycle I just bought 🏍️    
 Outside of coding, I enjoy lifting and video games    
