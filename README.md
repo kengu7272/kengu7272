@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-💬 Ask me about my motorcycle I just bought  
-Outside of coding, I enjoy lifting and video games.
+## Computer Science Student & Aspiring Software Engineer
+
+💬 Ask me about my motorcycle I just bought 🏍️    
+Outside of coding, I enjoy lifting and video games    
 
 <!--
 **kengu7272/kengu7272** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
