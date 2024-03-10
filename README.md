@@ -1,20 +1,16 @@
-## Computer Science Student & Aspiring Software Engineer
+## Basically a Software Engineer
 ### I'm Kevin
+Writing Code For [Biblish](https://biblish.com/)
 
-💬 Ask me about my motorcycle I just bought 🏍️    
-Outside of coding, I enjoy lifting and video games    
+### Hobbies & Interests
+<p>
+  <img src="https://img.shields.io/badge/Motorcycles-Yamaha MT 10-blue";"/>&nbsp;
+  <img src="https://img.shields.io/badge/Lifting-8A2BE2";"/>&nbsp;
+  <img src="https://img.shields.io/badge/Video%20Games-blue"/>&nbsp;
+  <img src="https://img.shields.io/badge/Longboards-8A2BE2";"/>&nbsp;
+  <img src="https://img.shields.io/badge/Car%20Audio-blue"/>&nbsp;
+  <img src="https://img.shields.io/badge/Rubik's%20Cubes-8A2BE2";"/>&nbsp;
+</p>
 
-<!--
-**kengu7272/kengu7272** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Tools
+[![My Skills](https://skillicons.dev/icons?i=neovim,nextjs,nodejs,arch,cpp,css,discord,docker,git,github,gmail,html,js,linux,md,mysql,npm,planetscale,react,tailwind,ts,vite,vscode,vercel,windows,&theme=dark)](https://skillicons.dev)
