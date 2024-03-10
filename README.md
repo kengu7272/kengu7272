@@ -1,5 +1,4 @@
-## Basically a Software Engineer
-### I'm Kevin
+## I'm Kevin
 Writing Code For [Biblish](https://biblish.com/)
 
 ### Hobbies & Interests
